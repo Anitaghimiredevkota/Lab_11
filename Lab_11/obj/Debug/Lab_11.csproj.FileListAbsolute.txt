@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_11\Lab_11\bin\Debug\Lab_11.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_11\Lab_11\bin\Debug\Lab_11.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_11\Lab_11\bin\Debug\Lab_11.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_11\Lab_11\obj\Debug\Lab_11.csprojAssemblyReference.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_11\Lab_11\obj\Debug\Lab_11.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_11\Lab_11\obj\Debug\Lab_11.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_11\Lab_11\obj\Debug\Lab_11.pdb
